@@ -1,0 +1,19 @@
+{
+  "name": "health-screening-generator",
+  "version": "1.0.0",
+  "description": "A disord bot to generate NYCDOE health screenings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SJS830/Health-Screening-Bot.git"
+  },
+  "author": "SJS830",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SJS830/Health-Screening-Bot/issues"
+  },
+  "homepage": "https://github.com/SJS830/Health-Screening-Bot#readme"
+}
